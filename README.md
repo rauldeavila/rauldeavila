@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 👨🏻‍💻 Full stack @ CAIXA
+- 👾 Hobbyist game dev creating a cute and dark 2D Metroidvania
+- 🍎 SwiftUI enthusiast
+
 <!--
 **rauldeavila/rauldeavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
